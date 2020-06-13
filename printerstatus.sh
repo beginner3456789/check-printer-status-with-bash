@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# this bash script get the printer status
+# this bash script gets the printer status using /dev/tcp
 # bash needs --enable-net-redirections build option
 
 # change printer IP address as needed
