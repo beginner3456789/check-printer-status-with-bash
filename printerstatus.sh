@@ -17,3 +17,4 @@ exec 5>&-
 exec 5<&-
 echo Finished reading printer.
 exit 0
+ 
